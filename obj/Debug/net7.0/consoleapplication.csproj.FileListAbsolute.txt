@@ -1,0 +1,14 @@
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\bin\Debug\net7.0\consoleapplication.exe
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\bin\Debug\net7.0\consoleapplication.deps.json
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\bin\Debug\net7.0\consoleapplication.runtimeconfig.json
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\bin\Debug\net7.0\consoleapplication.dll
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\bin\Debug\net7.0\consoleapplication.pdb
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.AssemblyInfoInputs.cache
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.AssemblyInfo.cs
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.dll
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\refint\consoleapplication.dll
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.pdb
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\consoleapplication.genruntimeconfig.cache
+C:\Users\oluwa\OneDrive\Desktop\112\TASK 2\consoleapplication\obj\Debug\net7.0\ref\consoleapplication.dll
